@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Y",
+    "keyBindingName": "Roles Open Key",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "RolesOpen"
+    }
+  }
+}
