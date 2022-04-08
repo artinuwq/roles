@@ -1,0 +1,119 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 200,
+    "height": 160,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "farmer.png",
+          "use1Xscale": true,
+          "name": "farmer.png",
+          "x": 177,
+          "y": 107
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Fermer",
+          "width": 56,
+          "height": 20,
+          "name": "Fermer",
+          "x": 118,
+          "y": 109
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "logger.png",
+          "use1Xscale": true,
+          "name": "logger.png",
+          "x": 177,
+          "y": 143
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "miner.png",
+          "use1Xscale": true,
+          "name": "miner.png",
+          "x": 222,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "murder.png",
+          "use1Xscale": true,
+          "name": "murder.png",
+          "x": 222,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "logger",
+          "width": 56,
+          "height": 20,
+          "name": "logger",
+          "x": 119,
+          "y": 145
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Murder",
+          "width": 61,
+          "height": 20,
+          "name": "Murder",
+          "x": 249,
+          "y": 145
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Miner",
+          "width": 51,
+          "height": 20,
+          "name": "Miner",
+          "x": 248,
+          "y": 109
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Choice a role",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Choice a role",
+          "x": 180,
+          "y": 61
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

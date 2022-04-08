@@ -1,5 +1,14 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Choiseroles",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "choiseroles"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
